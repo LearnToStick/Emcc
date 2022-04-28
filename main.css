@@ -98,7 +98,7 @@ canvas.emscripten {
   border-bottom: 0px;
 }
 .btn-sm.buttonPauseInactive {
-  background-image: url("../imgs/icon_pause.svg");
+/*   background-image: url("../imgs/icon_pause.svg"); */
   background-repeat: no-repeat;
   background-position: center;
   background-size: auto 19px;
@@ -120,7 +120,7 @@ canvas.emscripten {
   border-left-color: #ababab;
 }
 .btn-sm.buttonPlayInactive {
-  background-image: url("../imgs/icon_play.svg");
+/*   background-image: url("../imgs/icon_play.svg"); */
   background-repeat: no-repeat;
   background-position: center;
   background-size: auto 19px;
@@ -180,7 +180,7 @@ canvas.emscripten {
 }
 
 .buttonNewProject, .buttonNewProjectInactive {
-  background-image: url("../imgs/icon_new_ss2_white.svg");
+/*   background-image: url("../imgs/icon_new_ss2_white.svg"); */
   fill: white;
   background-repeat: no-repeat;
   background-position: center;
@@ -192,7 +192,7 @@ canvas.emscripten {
   width: 30px;
 }
 .buttonSaveProject, .buttonSaveProjectInactive {
-  background-image: url("../imgs/icon_save_ss2_white.svg");
+/*   background-image: url("../imgs/icon_save_ss2_white.svg"); */
   background-repeat: no-repeat;
   background-position: center;
   background-size: auto 23px;
@@ -203,7 +203,7 @@ canvas.emscripten {
   width: 39px;
 }
 .buttonOpenProject, .buttonOpenProjectInactive {
-  background-image: url("../imgs/icon_open_ss2_white.svg");
+/*   background-image: url("../imgs/icon_open_ss2_white.svg"); */
   background-repeat: no-repeat;
   background-position: center;
   background-size: 30px auto;
@@ -214,7 +214,7 @@ canvas.emscripten {
   width: 39px;
 }
 .buttonRotate, .buttonRotateInactive {
-  background-image: url("../imgs/rotate-gizmo.svg");
+/*   background-image: url("../imgs/rotate-gizmo.svg"); */
   background-repeat: no-repeat;
   background-position: center;
   background-size: auto 28px;
@@ -225,7 +225,7 @@ canvas.emscripten {
   width: 30px;
 }
 .buttonRemove, .buttonRemoveInactive {
-  background-image: url("../imgs/icon_trash_ss2_white.svg");
+/*   background-image: url("../imgs/icon_trash_ss2_white.svg"); */
   background-repeat: no-repeat;
   background-position: center;
   background-size: auto 23px;
@@ -250,7 +250,7 @@ label {
   animation-timing-function: ease-in-out;
 }
 .tutorialVideos div {
-  background: url("../imgs/tutorial-play.svg") rgba(0,0,0,0.6) no-repeat center center / 30% 30%;
+/*   background: url("../imgs/tutorial-play.svg") rgba(0,0,0,0.6) no-repeat center center / 30% 30%; */
   cursor: pointer;
 }
 .btn.btn-sm.buttonOtherMenu {
@@ -259,7 +259,7 @@ label {
 }
 span.keyBox {
   display: inline-block;
-  background-image: url("../imgs/key-box.svg");
+/*   background-image: url("../imgs/key-box.svg"); */
   background-repeat: no-repeat;
   background-position: center;
   background-size: 50px 50px;
@@ -271,13 +271,13 @@ span.keyBox {
   line-height: 50px;
 }
 span.keyBox.keyRect {
-  background-image: url("../imgs/key-rect.svg");
+/*   background-image: url("../imgs/key-rect.svg"); */
   background-size: 124px 50px;
   height: 50px;
   width: 124px;
 }
 span.keyBox.keyRectBig {
-  background-image: url("../imgs/key-rectBig.svg");
+/*   background-image: url("../imgs/key-rectBig.svg"); */
   background-size: 124px 50px;
   height: 50px;
   width: 124px;
