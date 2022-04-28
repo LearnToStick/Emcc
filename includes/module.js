@@ -2,7 +2,7 @@
 // var progressElement = document.getElementById('progress');
 // var spinnerElement = document.getElementById('spinner');
 var mainContentElement = document.getElementById('mainContent');
-var loadingLogoElement = document.getElementById('loadingLogo');
+// var loadingLogoElement = document.getElementById('loadingLogo');
 
 var Module = {
   preRun: [],
