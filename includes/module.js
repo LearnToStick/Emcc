@@ -9,7 +9,7 @@ var Module = {
   postRun: function() {
     mainContentElement.style.display = 'block';
    // loadingLogoElement.style.display = 'none';
-    document.getElementById('buttonShowHelp').className += " buttonFlash";
+   // document.getElementById('buttonShowHelp').className += " buttonFlash";
     window.dispatchEvent(new Event('mainContentVisible'));
   },
   print: (function() {
