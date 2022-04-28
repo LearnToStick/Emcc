@@ -26,7 +26,7 @@ var Module = {
   })(),
   printErr: function(text) {
     if (arguments.length > 1) text = Array.prototype.slice.call(arguments).join(' ');
-    console.error(text);
+//     console.error(text);
   },
   canvas: (function() {
     var canvas = document.getElementById('canvas');
