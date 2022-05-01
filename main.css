@@ -196,7 +196,7 @@ canvas.emscripten {
   background-repeat: no-repeat;
   background-position: center;
   background-size: auto 23px;
-  width: 50px;
+  width: 60px;
 }
 .btn-sm.buttonSaveProjectInactive {
   background-size: auto 18px;
@@ -207,7 +207,7 @@ canvas.emscripten {
   background-repeat: no-repeat;
   background-position: center;
   background-size: 30px auto;
-  width: 50px; 
+  width: 60px; 
 }
 .btn-sm.buttonOpenProjectInactive {
   background-size: 23px auto;
