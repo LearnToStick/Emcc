@@ -204,10 +204,10 @@ canvas.emscripten {
 }
 .buttonOpenProject, .buttonOpenProjectInactive {
 
-/*   background-repeat: no-repeat;
+  background-repeat: no-repeat;
   background-position: center;
-  background-size: 30px auto; */
-/*   width: 50px; */
+  background-size: 30px auto; 
+  width: 50px; 
 }
 .btn-sm.buttonOpenProjectInactive {
   background-size: 23px auto;
