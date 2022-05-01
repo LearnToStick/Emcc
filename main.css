@@ -202,7 +202,8 @@ canvas.emscripten {
   background-size: auto 18px;
   width: 39px;
 }
-.buttonOpenProject, .buttonOpenProjectInactive {
+/* .buttonOpenProject,  */
+.buttonOpenProjectInactive {
 
   background-repeat: no-repeat;
   background-position: center;
